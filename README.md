@@ -9,6 +9,8 @@ So: animate your body, and not your slides.
 
 # Demo
 
+Use arrow keys, Page keys or spacebar to navigate through slides. Demo page:
+
 http://quixxd.github.io/headline.js/
 
 # Usage
