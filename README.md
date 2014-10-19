@@ -34,7 +34,7 @@ headline(document, [
 		false);
 ```
 
-First parameter is `document`, second is a list of your headlines. The third parameter controls the style of style morphings: `true` for full morph, `false` for fly-out morph.
+First parameter is `document`, second is a list of your headlines. Third parameter controls the style of style morphings: `true` for full morph, `false` for fly-out morph.
 
 Quick start: Download the zip file, and edit the `index.html` file, specifying your slide headlines inline.
 
