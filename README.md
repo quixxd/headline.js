@@ -3,7 +3,17 @@ headline.js HTML Presentation Engine
 
 headline.js is a HTML and Javascript-based presentation engine for offline and online presentations. headline.js uses pixi.js for graphics.
 
-You can only present headlines. There is no images, no lists, no even slide text. You have one line for slide. It is you what makes your presentations interesting, not your slides.
+You can only present headlines. You have one line for slide. It is you what makes your presentations interesting, not your slides.
+
+headline.js does not support:
+
+* animations
+* images
+* lists
+* tables
+* backgrounds
+* punctuation
+* slide text
 
 So: animate your body, and not your slides.
 
