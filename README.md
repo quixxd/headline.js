@@ -5,6 +5,12 @@ headline.js is a HTML and Javascript-based presentation engine for offline and o
 
 You can only present headlines. You have one line for slide. It is you what makes your presentations interesting, not your slides.
 
+headline.js supports:
+
+* slides
+* one headline per slide
+* slide transitions
+
 headline.js does not support:
 
 * animations
